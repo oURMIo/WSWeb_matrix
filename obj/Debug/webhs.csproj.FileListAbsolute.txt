@@ -1,0 +1,10 @@
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.csprojAssemblyReference.cache
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.Form1.resources
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.Properties.Resources.resources
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.csproj.GenerateResource.cache
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.csproj.CoreCompileInputs.cache
+C:\Users\dimac\Source\Repos\webhs\bin\Debug\webhs.exe.config
+C:\Users\dimac\Source\Repos\webhs\bin\Debug\webhs.exe
+C:\Users\dimac\Source\Repos\webhs\bin\Debug\webhs.pdb
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.exe
+C:\Users\dimac\Source\Repos\webhs\obj\Debug\webhs.pdb
